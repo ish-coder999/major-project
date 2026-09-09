@@ -1,2 +1,2 @@
 # major-project
-mental health tracker
+customer-churn-prediction
